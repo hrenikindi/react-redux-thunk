@@ -1,4 +1,3 @@
-// UserList.js
 import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { fetchUsersRequest } from '../actions/userActions';
